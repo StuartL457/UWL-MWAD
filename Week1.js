@@ -10,7 +10,9 @@ print(value);
 value = Math.max(3, 5);
 print(value);
 
-
+//slide 7
+print(3 > 2);
+print(3 < 2);
 
 function print(value) {
   console.log(value);
